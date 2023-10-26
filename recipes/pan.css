@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: rgb(43, 39, 39);
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-style: italic;
+    text-align: center;
+}
+img{
+    border-radius: 10%;
+    margin-left:20%
+}
+p{
+    margin-left: 20%;
+}
+.list{
+    margin-left: 40%;
+}
+.olist{
+    margin-left:40%;
+   
+}
+.li{
+    margin-bottom: 10px;
+    font-style: italic;
+}

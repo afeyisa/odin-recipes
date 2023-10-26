@@ -1,0 +1,22 @@
+body{
+    color: aliceblue;
+    background-color: rgb(40, 36, 36);
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+}
+p{
+    margin-left: 20%;
+}
+img{
+    border-radius: 10px;
+    margin-left: 30%;
+}
+.list{
+    margin-left: 40%;
+
+}
